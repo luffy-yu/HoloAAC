@@ -1,0 +1,13 @@
+include: '../base/common.yml'
+
+what: rice
+rice:
+  name: rice
+  names: rice
+  adjectives: []
+  topics:
+    - price
+    - bag
+    - where
+    - have
+  sentences: []

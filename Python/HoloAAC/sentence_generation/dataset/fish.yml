@@ -1,0 +1,13 @@
+include: '../base/common.yml'
+
+what: fish
+fish:
+  name: fish
+  names: fish
+  adjectives: []
+  topics:
+    - price
+    - bag
+    - where
+    - have
+  sentences: []

@@ -1,0 +1,13 @@
+include: '../base/common.yml'
+
+what: jam
+jam:
+  name: jam
+  names: jam
+  adjectives: []
+  topics:
+    - price
+    - bag
+    - where
+    - have
+  sentences: []

@@ -1,0 +1,13 @@
+include: '../base/common.yml'
+
+what: candy
+candy:
+  name: candy
+  names: candies
+  adjectives: []
+  topics:
+    - price
+    - bag
+    - where
+    - have
+  sentences: []

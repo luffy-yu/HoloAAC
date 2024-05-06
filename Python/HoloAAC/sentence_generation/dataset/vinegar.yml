@@ -1,0 +1,13 @@
+include: '../base/common.yml'
+
+what: vinegar
+vinegar:
+  name: vinegar
+  names: vinegar
+  adjectives: []
+  topics:
+    - price
+    - bag
+    - where
+    - have
+  sentences: []

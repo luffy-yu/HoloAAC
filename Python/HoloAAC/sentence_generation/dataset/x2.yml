@@ -1,0 +1,15 @@
+include: '../base/header.yml'
+
+what: x2
+x2:
+  name: x2
+  desc: 'sentences about two items'
+  parameters: [one, two]
+  sentences:
+    - Can you put the {one} and {two} in one bag?
+    - Can you put the {one} and {two} in separate bags?
+    - Please remove {one} but keep {two}.
+    - Please remove {two} but keep {one}.
+    - What are the prices of the {one} and the {two}?
+    - Please remove {one} and {two}.
+    - Please keep {one} and {two}.

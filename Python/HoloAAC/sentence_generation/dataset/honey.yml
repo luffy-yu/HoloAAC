@@ -1,0 +1,13 @@
+include: '../base/common.yml'
+
+what: honey
+honey:
+  name: honey
+  names: honey
+  adjectives: []
+  topics:
+    - price
+    - bag
+    - where
+    - have
+  sentences: []

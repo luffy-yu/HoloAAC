@@ -1,0 +1,13 @@
+include: '../base/common.yml'
+
+what: tea
+tea:
+  name: tea
+  names: teas
+  adjectives: []
+  topics:
+    - price
+    - bag
+    - where
+    - have
+  sentences: []

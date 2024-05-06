@@ -1,0 +1,13 @@
+include: '../base/common.yml'
+
+what: oil
+oil:
+  name: oil
+  names: oil
+  adjectives: []
+  topics:
+    - price
+    - bag
+    - where
+    - have
+  sentences: []

@@ -1,0 +1,13 @@
+include: '../base/common.yml'
+
+what: nuts
+nuts:
+  name: nut
+  names: nuts
+  adjectives: []
+  topics:
+    - price
+    - bag
+    - where
+    - have
+  sentences: []

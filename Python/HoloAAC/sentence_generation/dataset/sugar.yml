@@ -1,0 +1,13 @@
+include: '../base/common.yml'
+
+what: sugar
+sugar:
+  name: sugar
+  names: sugar
+  adjectives: []
+  topics:
+    - price
+    - bag
+    - where
+    - have
+  sentences: []

@@ -1,0 +1,11 @@
+include: '../base/header.yml'
+
+what: xn
+xn:
+  names: groceries
+  desc: 'sentences about n (more than two) items'
+  parameters: []
+  sentences:
+    - Can you put these groceries in one bag?
+    - Can you put these groceries in separate bags?
+    - What are the prices of these groceries?

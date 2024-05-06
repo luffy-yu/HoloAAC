@@ -1,0 +1,13 @@
+include: '../base/common.yml'
+
+what: chocolate
+chocolate:
+  name: chocolate
+  names: chocolates
+  adjectives: []
+  topics:
+    - price
+    - bag
+    - where
+    - have
+  sentences: []

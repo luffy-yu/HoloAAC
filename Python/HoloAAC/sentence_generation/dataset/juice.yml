@@ -1,0 +1,13 @@
+include: '../base/common.yml'
+
+what: juice
+juice:
+  name: juice
+  names: juices
+  adjectives: []
+  topics:
+    - price
+    - bag
+    - where
+    - have
+  sentences: []

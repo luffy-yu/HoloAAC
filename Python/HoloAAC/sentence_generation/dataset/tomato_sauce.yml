@@ -1,0 +1,13 @@
+include: '../base/common.yml'
+
+what: tomato_sauce
+tomato_sauce:
+  name: tomato sauce
+  names: tomato sauce
+  adjectives: []
+  topics:
+    - price
+    - bag
+    - where
+    - have
+  sentences: []

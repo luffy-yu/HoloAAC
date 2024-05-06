@@ -1,0 +1,14 @@
+include: '../base/common.yml'
+
+what: soda
+soda:
+  name: soda
+  names: sodas
+  adjectives: []
+  topics:
+    - price
+    - bag
+    - where
+    - have
+  sentences:
+    - Do you have six-packs of soda?

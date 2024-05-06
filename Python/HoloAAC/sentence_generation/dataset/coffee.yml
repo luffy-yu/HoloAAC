@@ -1,0 +1,13 @@
+include: '../base/common.yml'
+
+what: coffee
+coffee:
+  name: coffee
+  names: coffee
+  adjectives: []
+  topics:
+    - price
+    - bag
+    - where
+    - have
+  sentences: []

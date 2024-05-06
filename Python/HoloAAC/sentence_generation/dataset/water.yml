@@ -1,0 +1,23 @@
+include: '../base/common.yml'
+
+# what object is this file for
+what: water
+water:
+  # basic name
+  name: water
+  # plural name
+  names: water
+  # adjectives
+  adjectives: [ ]
+  # used topics from the common.yml
+  topics:
+    - price
+    - bag
+    - where
+    - have
+  # self sentences
+  sentences:
+    - Do you have {name} packs?
+
+
+

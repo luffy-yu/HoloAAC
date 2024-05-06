@@ -1,0 +1,13 @@
+include: '../base/common.yml'
+
+what: beans
+beans:
+  name: beans
+  names: beans
+  adjectives: []
+  topics:
+    - price
+    - bag
+    - where
+    - have
+  sentences: []

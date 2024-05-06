@@ -1,0 +1,14 @@
+include: '../base/common.yml'
+
+what: milk
+milk:
+  name: milk
+  names: milks
+  adjectives: [ skim, nonfat, 1%, 2%, organic, whole ]
+  topics:
+    - price
+    - bag
+    - where
+    - have
+  sentences:
+    - When does this {name} expire?

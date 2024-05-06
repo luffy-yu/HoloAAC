@@ -1,0 +1,13 @@
+include: '../base/common.yml'
+
+what: flour
+flour:
+  name: flour
+  names: flour
+  adjectives: []
+  topics:
+    - price
+    - bag
+    - where
+    - have
+  sentences: []

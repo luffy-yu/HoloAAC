@@ -1,0 +1,13 @@
+include: '../base/common.yml'
+
+what: cake
+cake:
+  name: cake
+  names: cakes
+  adjectives: []
+  topics:
+    - price
+    - bag
+    - where
+    - have
+  sentences: []

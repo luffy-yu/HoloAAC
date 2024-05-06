@@ -1,0 +1,57 @@
+include: '../header.yml'
+
+# list topics
+topics:
+  # topic about price
+  price:
+    parameters: [ name, names ]
+    sentences:
+      - What is the price of {name}?
+      - Is {name} sold at this price?
+      - Do all {names} cost the same price?
+      - I would like to check the price on {names} separately.
+  # topic about bag
+  bag:
+    parameters: [ name, names ]
+    sentences:
+      - Put all the {names} in one bag.
+      - Could you put those {names} in a separate bag?
+      - Put the {name} in a separate bag.
+      - Could you double bag the {name}?
+      - Please do not put the {name} in a bag.
+      - Could you bag these {names}?
+      - Where can I weigh this bag of {names}.
+      - How many {names} can fit in that bag?
+      - How many {names} are in this bag?
+      - Could you put those {names} in separate bags?
+      - Could you put each {name} in a separate bag?
+  # topic about pound
+  pound:
+    parameters: [ names ]
+    sentences:
+      - Are these {names} sold by the pound?
+      - Are these {names} sold by the pound or in packs?
+  # topic about where
+  where:
+    parameters: [ name, names ]
+    sentences:
+      - Where are the {names} on sale?
+      - Where are the {name} packs?
+      - Please tell me where the {names} are.
+      - Where can I weigh this bag of {names}?
+      - Where is the {name}?
+      - Where are the {names} located?
+  # topic about have
+  have:
+    parameters: [ name, names ]
+    sentences:
+      - Do you have {name}?
+      - Do you have any packs of {names}?
+      - Do you have any more {names}?
+      - Do you have any sales on {names}?
+      - Do you have a sale on {names}?
+      - Do you have any packaged {names}?
+
+
+
+

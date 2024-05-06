@@ -1,0 +1,13 @@
+include: '../base/common.yml'
+
+what: spices
+spices:
+  name: spices
+  names: spices
+  adjectives: []
+  topics:
+    - price
+    - bag
+    - where
+    - have
+  sentences: []

@@ -1,0 +1,14 @@
+.idea/
+
+*.png
+*.jpg
+
+.pytest_cache
+__pycache__/
+
+*.pyc
+*.pyd
+
+*.mp3
+*.ogg
+*.wav

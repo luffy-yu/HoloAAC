@@ -1,0 +1,13 @@
+include: '../base/common.yml'
+
+what: pasta
+pasta:
+  name: pasta
+  names: pasta
+  adjectives: []
+  topics:
+    - price
+    - bag
+    - where
+    - have
+  sentences: []

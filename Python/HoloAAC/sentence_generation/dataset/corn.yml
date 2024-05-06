@@ -1,0 +1,13 @@
+include: '../base/common.yml'
+
+what: corn
+corn:
+  name: corn
+  names: corn
+  adjectives: []
+  topics:
+    - price
+    - bag
+    - where
+    - have
+  sentences: []
