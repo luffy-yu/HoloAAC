@@ -124,7 +124,7 @@ git submodule update --init --recursive
   > python manage.py runserver 0.0.0.0:8000
 
 <details>
-  <summary>3. Run **HoloAAC** on HoloLens 2</summary>
+  <summary>3. Run HoloAAC on HoloLens 2</summary>
 
    * Open it
    * Click the left bottom **Network** button
