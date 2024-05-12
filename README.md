@@ -38,7 +38,9 @@ git submodule update --init --recursive
 
   #### Create Conda Environment
   1. Refer to the aforementioned HoloAAC.yml file and requirements.txt to set up the environment.
-  2. Environment validation
+  2. Installing [NLTK Data](https://www.nltk.org/data.html) via `python -c "import nltk;nltk.download()"`
+     ![docs/nltk_downloader.png](docs/nltk_downloader.png)
+  3. Environment validation
      * Activate the created conda environment
      * Run the following command within the folder `{project_root}/Python/HoloAAC`
   
