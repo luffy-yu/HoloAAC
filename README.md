@@ -3,7 +3,7 @@
 <div align="center">
 <a href="https://www.chuange.org/papers/HoloAAC.html"><img src="docs/home.png" style="width: 50px"/></a>&emsp;
 <a href="https://youtu.be/VL2Lulqxyhg"><img src="docs/video.png" style="width: 50px"/></a>&emsp;
-<a href="#"><img src="docs/internet.png" style="width: 50px"/></a>&emsp;
+<a href="https://doi.org/10.1007/978-3-031-61047-9_20"><img src="docs/internet.png" style="width: 50px"/></a>&emsp;
 <a href="https://www.chuange.org/files/HoloAAC.pdf"><img src="docs/pdf.png" style="width: 50px"/></a>&emsp;
 <a href="https://www.linkedin.com/in/liuchuan-yu-64a44621a"><img src="docs/linkedin.png" style="width: 50px"/></a>&emsp;
 <a href="mailto:lyu20@gmu.edu"><img src="docs/mail.png" style="width: 50px"/></a>&emsp;
