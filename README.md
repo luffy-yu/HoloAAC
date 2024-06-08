@@ -174,8 +174,9 @@ Therefore, as long as network doesn't change, there is no need to test or update
 ```
 @inproceedings{yu2024holoaac,
   title={HoloAAC: A Mixed Reality AAC Application for People with Expressive Language Difficulties},
-  author={Yu, Liuchuan and Feng, Huining and Alghofaili, Rawan and Byun, Boyoung and O'Neal, Tiffany and Rampalli, Swati and Chung, Yoosun and Motti, Vivian Genaro and Yu, Lap-Fai},
+  author={Yu, Liuchuan and Feng, Huining and Alghofaili, Rawan and Byun, Boyoung and O’Neal, Tiffany and Rampalli, Swati and Chung, Yoosun and Genaro Motti, Vivian and Yu, Lap-Fai},
   booktitle={International Conference on Human-Computer Interaction},
+  pages={304--324},
   year={2024},
   organization={Springer}
 }
