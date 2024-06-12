@@ -1,6 +1,6 @@
 [submodule "Python/HoloAAC/PaddleSeg"]
 	path = Python/HoloAAC/PaddleSeg
-	url = https://github.com/gmudcxr/PaddleSeg.git
+	url = https://github.com/gmu-dcxr/PaddleSeg.git
 [submodule "Python/HoloAAC/yolov5"]
 	path = Python/HoloAAC/yolov5
-	url = https://github.com/gmudcxr/yolov5.git
+	url = https://github.com/gmu-dcxr/yolov5.git
